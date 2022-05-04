@@ -45,7 +45,7 @@ public class Main {
 			System.out.println(bank.displayAccount("number3"));
 			/** mostrar operaciones desde fecha para una cuenta */
 			System.out.print("\nOperaciones de number1 desde "+time.getTime());
-			for(Operacion o: bank.listOperationsAccount("number1", time))
+			for(Operacion o: bank.listOperationsAccount("number2", time))
 			{
 				System.out.print(o);
 			}
