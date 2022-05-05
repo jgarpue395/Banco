@@ -15,4 +15,4 @@ El programa usa diferentes metodos para realizar las distintas operaciones.
 - **listOperationAccount:** muestra las operaciones realizadas en una determinada cuenta, después de la fecha indicada.
 
 ## Autor
-Jesús García Puerto (jgarpue395).
+Jesús García Puerto.
